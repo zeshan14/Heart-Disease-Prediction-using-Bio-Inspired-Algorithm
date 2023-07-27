@@ -59,3 +59,19 @@ When the GUI appears, click on upload files and give the csv dataset.
 Click on the following buttons to preprocess data, get accuracy of algorithms and a comparison graph.
 
 View the results and accuracy scores of each algorithm to determine the most accurate model.
+
+# Result
+![image](https://github.com/zeshan14/Heart-Disease-Prediction-using-Bio-Inspired-Algorithm/assets/101913042/0b5af8d8-c0ab-4796-89fc-e042c5126daf)
+
+![image](https://github.com/zeshan14/Heart-Disease-Prediction-using-Bio-Inspired-Algorithm/assets/101913042/f2d01ca6-3299-474e-80e7-82abcc68e5f3)
+
+![image](https://github.com/zeshan14/Heart-Disease-Prediction-using-Bio-Inspired-Algorithm/assets/101913042/90418f0e-349d-4c93-b6d4-cf38f503f621)
+
+![image](https://github.com/zeshan14/Heart-Disease-Prediction-using-Bio-Inspired-Algorithm/assets/101913042/2259e7b5-93e7-417d-9ddb-45b2c61c8c9b)
+
+![image](https://github.com/zeshan14/Heart-Disease-Prediction-using-Bio-Inspired-Algorithm/assets/101913042/187854e4-7b23-4d42-99ae-684f2141a813)
+
+![image](https://github.com/zeshan14/Heart-Disease-Prediction-using-Bio-Inspired-Algorithm/assets/101913042/425ef408-2c47-45a0-a485-0220253e90ae)
+
+
+
