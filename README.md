@@ -17,6 +17,7 @@ Number of Major Vessels Colored by Fluoroscopy (ca): Number of major vessels col
 Thalassemia (thal): A categorical feature indicating the type of thalassemia.
 Class: The target variable indicating the presence or absence of heart disease (0: no heart disease, 1: heart disease).
 
+
 # Algorithms
 Genetic Algorithm (GA):
 Genetic Algorithm is a nature-inspired optimization technique that mimics the process of natural selection and evolution. It is used here for feature selection.
