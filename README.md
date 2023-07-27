@@ -59,3 +59,4 @@ When the GUI appears, click on upload files and give the csv dataset.
 Click on the following buttons to preprocess data, get accuracy of algorithms and a comparison graph.
 
 View the results and accuracy scores of each algorithm to determine the most accurate model.
+
